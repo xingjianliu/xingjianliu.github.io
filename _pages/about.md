@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Xingjian's Homepage"
-excerpt: "About me"
+title: "Xingjian Liu"
+excerpt: "Xingjian Liu"
 author_profile: true
 redirect_from: 
   - /about/
