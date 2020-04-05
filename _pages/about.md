@@ -12,8 +12,9 @@ I am currently a Postdoctoral Fellow at [Advanced Micro and Nanosystems Laborato
 My main research interests are in the fields of Computer Vision, Metrology, Robotics etc.
 
 # Latest News
+* 2020-04-04 Paper entitled "Characterizing the Biomechanical Response of the Right Ventricle via Stereo Digital Image Correlation" was published on [JHLT](https://doi.org/10.1016/j.healun.2020.01.757).
 * 2020-02-01 Paper about robot calibration was accepted in [ICRA 2020](https://www.icra2020.org/).
-* 2019-12-30 Paper entitled "Characterizing the Biomechanical Response of the Right Ventricle via Stereo Digital Image Correlation" was accepted as mini oral presentation in [ISHLT 2020](https://ishlt.org/meetings-education/annual-meeting/ishlt2020).
+* 2019-12-30 Paper about heart shape and deformantion measurement was accepted as mini oral presentation in [ISHLT 2020](https://ishlt.org/meetings-education/annual-meeting/ishlt2020).
 * 2019-02-06 Two papers was accepted by Sensors.
 * 2018-08-23 I became a Postdoctoral Fellow at Advanced Micro and Nanosystems Laboratory (AMNL) in University of Toronto.
 * 2018-06-28 One paper was accepted by Optics and Lasers in Engineering ([OLEN](https://doi.org/10.1016/j.optlaseng.2018.06.012)).
