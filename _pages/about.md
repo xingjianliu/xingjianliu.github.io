@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Fellow at [Advanced Micro and Nanosystems Laboratory (AMNL)](http://amnl.mie.utoronto.ca/), [Robotics Institute](https://robotics.utoronto.ca/) in University of Toronto supervised by [Prof. Yu Sun](https://sun.mie.utoronto.ca/bio/). I obtain my PhD degree at [Huazhong University of Science & Technology](http://english.hust.edu.cn/). My supervisors are [Prof. Yusheng Shi](http://faculty.hust.edu.cn/shiyusheng/zh_CN/index.htm) & Zhongwei Li. Before this, I received the BEng degree from School of Electronics and Information Engineering, Huazhong University of Science & Technology under the suprervision of Prof. Yu Liu in 2013.
+I am currently a Postdoctoral Fellow at [Advanced Micro and Nanosystems Laboratory (AMNL)](http://amnl.mie.utoronto.ca/), [Robotics Institute](https://robotics.utoronto.ca/) in University of Toronto supervised by [Prof. Yu Sun](https://sun.mie.utoronto.ca/bio/). I obtained my PhD degree at [Huazhong University of Science & Technology](http://english.hust.edu.cn/). My supervisors are [Prof. Yusheng Shi](http://faculty.hust.edu.cn/shiyusheng/zh_CN/index.htm) & Zhongwei Li. Before this, I received the BEng degree from School of Electronics and Information Engineering, Huazhong University of Science & Technology under the suprervision of Prof. Yu Liu in 2013.
 
 My main research interests are in the fields of Computer Vision, Metrology, Robotics etc.
 
