@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Xingjian Liu"
+title                    : "Personnal Homepage"
 title_separator          : "-"
 name                     : &name "Xingjian Liu"
 description              : &description "personal description"
