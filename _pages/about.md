@@ -21,6 +21,6 @@ My main research interests are in the fields of Computer Vision, Metrology, Robo
 
 # Links of Friends & Collaborators
 * Prof. YuhJin Chao --- Professor at Mechanical Engineering (ME) Department, University of South Carolina.
-* Dr.Pedro Miraldo --- Invited Assistant Professor and Postdoctoral researcher at the Institute for Systems and Robotics, Instituto Superior Técnico, Lisboa.
+* Dr. Pedro Miraldo --- Invited Assistant Professor and Postdoctoral researcher at the Institute for Systems and Robotics, Instituto Superior Técnico, Lisboa.
 * Dr. Hengshuang Zhao --- Phd student at Department of Computer Science and Engineering, The Chinese University of Hong Kong.
 
