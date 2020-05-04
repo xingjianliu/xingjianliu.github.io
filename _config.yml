@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xingjian Liu"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Fellow at Robotics Institute, University of Toronto"
+  bio              : "Postdoctoral Fellow at MIE & Robotics Institute, University of Toronto"
   location         : "Toronto, Ontario, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xingjianliu"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
