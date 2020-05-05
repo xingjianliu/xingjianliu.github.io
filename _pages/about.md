@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Fellow at [Advanced Micro and Nanosystems Laboratory (AMNL)](http://amnl.mie.utoronto.ca/), [Robotics Institute](https://robotics.utoronto.ca/) in University of Toronto supervised by [Prof. Yu Sun](https://sun.mie.utoronto.ca/bio/). I obtained my PhD degree at [Huazhong University of Science & Technology](http://english.hust.edu.cn/). My supervisors are [Prof. Yusheng Shi](http://faculty.hust.edu.cn/shiyusheng/zh_CN/index.htm) & Zhongwei Li. Before this, I received the BEng degree from School of Electronics and Information Engineering, Huazhong University of Science & Technology under the suprervision of Prof. Yu Liu in 2013.
+I am currently working as a postdoctoral fellow in the [Department of Mechanical and Industrial Engineering](https://www.mie.utoronto.ca/) and [Robotics Institute](https://robotics.utoronto.ca/) at University of Toronto, where I work on computer vision, 3D sensing and metrology, and robotics. I am a part of the [Advanced Micro and Nanosystems Laboratory (AMNL)](http://amnl.mie.utoronto.ca/), advised by [Prof. Yu Sun](https://sun.mie.utoronto.ca/bio/). 
 
-My main research interests are in the fields of Computer Vision, Metrology, Robotics etc.
+I finished my PhD at [Huazhong University of Science & Technology](http://english.hust.edu.cn/), advised by [Prof. Yusheng Shi](http://faculty.hust.edu.cn/shiyusheng/zh_CN/index.htm) & Zhongwei Li, and my undergraduate degree from same university, working with Prof. Yu Liu in Dian Group and SeedClass. 
+
+My research focuses on 3D vision for robotics: 1) Develop 3D sensing/metrology techniques with unprecedented accuracy and efficiency, 2) Develop algorithms that can enable robot to learn manipulation skills necessary to execute manufacturing and medicine tasks.
 
 # Latest News 
 * 2020-05-01 Paper entitled "Optical Measurement of Highly Reflective Surfaces from a Single Exposure" was published on IEEE Transactions on Industrial Informatics ([IEEE TII](https://doi.org/10.1109/TII.2020.2991458)).
