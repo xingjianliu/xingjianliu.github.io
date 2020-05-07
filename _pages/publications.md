@@ -21,3 +21,13 @@ author_profile: true
 - [C3] P. He, K. Zhong, **X. Liu**, G. Zhou, C. Wang, Q. Wei, Y. Shi, and Z. Li, “A phase-guided method for extracting the contour of the fusion area in laser powder bed fusion,” in Seventh International Conference on Optical and Photonic Engineering (icOPEN 2019), Phuket, Thailand, Oct 2019.
 - [C2] K. Zhong, Z. Li, X. Zhou, G. Zhan, **X. Liu**, Y. Shi, and C. Wang, “Real-time 3D shape measurement system with full temporal resolution and spatial resolution,” in Proceedings of IS&T/SPIE Electronic Imaging, San Francisco, California, United States, Feb 2014.
 - [C1] **X. Liu**, Z. Li, K. Zhong, G. Zhan and Y. Shi, “Fast 3D full body shape measurement technique based on multi-wavelength laser scanning,” in Proceedings of 4th International Conference on Additive Manufacturing and Bio-Manufacturing, Beijing, China, Dec 2014.
+
+## Patents:
+- [P8] “High-speed 3D Measurement Method based on Low-speed Camera Arrays (基于低速相机阵列的高速动态物体三维测量方法),” No. 201710266074.3, In Chinese, Authorized, Apr 2017.
+- [P7] “Hand-held Fast 3D Measurement Method based on Multi-laser Stripes (一种手持式多激光条纹快速三维测量方法),” No. 201510552154.6, In Chinese, Authorized, Sep 2015.
+- [P6] “A Modeling Method for Arbitrary Imaging System (一种成像系统的建模方法),” No. 201611146726.1, In Chinese, Authorized, Dec 2016.
+- [P5] “An Image Model for Scanning Electron Microscopy Imaging System (一种扫描电子显微镜成像系统的建模方法),” No. 201611218565.2, In Chinese, Authorized, Dec 2016.
+- [P4] “A Thermal Deformation Measurement Method for IC Packages under SEM (一种基于扫描电子显微镜的芯片热变形测量方法),” No. 201710852515.8, In Chinese, Authorized, Sep 2017.
+- [P3] “A Distortion Correction Method for Scanning Electron Microscopy (一种扫描电子显微镜的图像畸变校正方法),” No. 201710812587.X, In Chinese, To be authorized, Sep 2017.
+- [P2] “A Dynamic Three-Dimensional Timing Synchronization System (一种动态三维测量时序同步系统),” No. 201320218149.8, In Chinese, Authorized, Oct 2015.
+- [P1] “A High-speed 3D Deformation Measurement Method Based on Digital Image Correlation (一种基于数字散斑的高速三维应变测量方法),” No. 201510025233.1, In Chinese, Authorized, Jan 2015. 
