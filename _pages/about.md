@@ -26,3 +26,4 @@ My research focuses on 3D vision for robotics: 1) Develop 3D sensing/metrology t
 * Dr. Pedro Miraldo --- Invited Assistant Professor and Postdoctoral researcher at the Institute for Systems and Robotics, Instituto Superior Técnico, Lisboa.
 * Dr. Hengshuang Zhao --- Department of Computer Science and Engineering, The Chinese University of Hong Kong.
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=V26EEi-XzBMVpO00n55ZZgpx40ySNjsToCJZc5dtqyU&co=b3c0c9&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
