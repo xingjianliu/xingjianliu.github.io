@@ -5,6 +5,8 @@ author_profile: true
 ---
 Please check my [Google Scholar Profile](https://scholar.google.com/citations?user=8AIuzdwAAAAJ&hl=en&authuser=1).
 ## Journal Articles (* Corresponding author, # Equally contribution):
+
+- [J12] **X. Liu**, H. Madhusudanan, W. Chen, Dahai Li, J. Ge, C. Ru, and Y. Sun, Fast Eye-in-Hand 3D Scanner-Robot Calibration for Low Stitching Errors, IEEE Transactions on Industrial Electronics  (**IEEE TIE**), accepted.
 - [J11] **X. Liu**, W. Chen, H. Madhusudanan, J. Ge, C. Ru, and Y. Sun, Optical Measurement of Highly Reflective Surfaces from a Single Exposure, IEEE Transactions on Industrial Informatics  (**IEEE TII**), accepted.
 - [J10] **X. Liu**, L. Xin, H. Madhusudanan, J. Alvarez, R.V. Ribeiro, F. Yu, Y. Chao, Y. Peng, J. Luo, M. Badiwala, and Y. Sun, Characterizing the Biomechanical Response of the Right Ventricle via Stereo Digital Image Correlation, The Journal of Heart and Lung Transplantation (**JHLT**), vol. 39, no. 4, pp. S179–S180, Apr 2020.
 - [J9] R. Chen, Z. Li, K. Zhong, **X. Liu**, Y. Wu, C. Wang, and Y. Shi, A Stereo-Vision System for Measuring the Ram Speed of Steam Hammers in an Environment with a Large Field of View and Strong Vibrations, Sensors (**Sensors (Basel)**), vol. 19, no. 3, pp. 996, Feb 2019.
