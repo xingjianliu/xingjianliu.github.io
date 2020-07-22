@@ -16,8 +16,8 @@ Please check my [Google Scholar Profile](https://scholar.google.com/citations?us
 - [J5] R. Chen, Z. Li, K. Zhong, **X. Liu**, Y. Chao, and Y. Shi, Low-Speed-Camera-Array-Based High-Speed Three-Dimensional Deformation Measurement Method: Principle, Validation, and Application, Optics and Lasers in Engineering (**OLEN**), vol. 107, pp. 21–27, Oct 2018.
 - [J4] Z. Li, **X. Liu***, S. Wen, P. He, K. Zhong, Q. Wei, Y. Shi, and S. Liu, In Situ 3D Monitoring of Geometric Signatures in the Powder-Bed-Fusion Additive Manufacturing Process via Vision Sensing Methods, Sensors (**Sensors (Basel)**), vol. 18, no. 4, pp. 1180–1193, Apr 2018.
 - [J3] **X. Liu**, Z. Li, K. Zhong, Y. Chao, M. Pedro, and Y. Shi, Generic Distortion Model for Metrology under Optical Microscopes, Optics and Lasers in Engineering (**OLEN**), vol. 103, pp. 119–126, Apr 2018.
-- [J2] **X. Liu**, H. Zhao, G. Zhan, K. Zhong, Z. Li*, Y. Chao and Y. Shi, Rapid and automatic 3D body measurement system based on a GPU–Steger line detector, Applied Optics (**AO**) vol. 55, no. 21, pp. 5539–5547, Jul 2016..
-- [J1] **X. Liu**, Z. Li*, P. Miraldo, K. Zhong and Y. Shi, A Framework to Calibrate the Scanning Electron Microscope Under Variational Magnifications, IEEE Photonics Technology Letters (**IEEE PTL**) vol. 28, no. 16, pp. 1715–1718, Jan 2016..
+- [J2] **X. Liu**, H. Zhao, G. Zhan, K. Zhong, Z. Li*, Y. Chao and Y. Shi, Rapid and automatic 3D body measurement system based on a GPU–Steger line detector, Applied Optics (**AO**) vol. 55, no. 21, pp. 5539–5547, Jul 2016.
+- [J1] **X. Liu**, Z. Li*, P. Miraldo, K. Zhong and Y. Shi, A Framework to Calibrate the Scanning Electron Microscope Under Variational Magnifications, IEEE Photonics Technology Letters (**IEEE PTL**) vol. 28, no. 16, pp. 1715–1718, Jan 2016.
 
 ## Conference Publications:
 - [C4] **X. Liu**, et al, “Characterizing the Biomechanical Response of the Right Ventricle via Stereo Digital Image Correlation,” in ISHLT (International Society for Heart and Lung Transplantation) 2020, Montréal, Canada, Accepted, Mar 2020.
