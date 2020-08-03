@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* 2020-08-03 Co-author paper entitled "Label-free conduction velocity mapping and gap junction assessment of functional iPSC-Cardiomyocyte monolayers" was published on Biosensors and Bioelectronics ([BB](https://doi.org/10.1016/j.bios.2020.112468)).
 * 2020-07-21 Paper entitled "Fast Eye-in-Hand 3D Scanner-Robot Calibration for Low Stitching Errors" was published on IEEE Transactions on Industrial Electronics ([IEEE TIE](https://doi.org/10.1109/TIE.2020.3009568)).
 * 2020-05-01 Paper entitled "Optical Measurement of Highly Reflective Surfaces from a Single Exposure" was published on IEEE Transactions on Industrial Informatics ([IEEE TII](https://doi.org/10.1109/TII.2020.2991458)).
 * 2020-04-04 Paper entitled "Characterizing the Biomechanical Response of the Right Ventricle via Stereo Digital Image Correlation" was published on The Journal of Heart and Lung Transplantation ([JHLT](https://doi.org/10.1016/j.healun.2020.01.757)).
