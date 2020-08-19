@@ -5,6 +5,7 @@ author_profile: true
 ---
 Please check my [Google Scholar Profile](https://scholar.google.com/citations?user=8AIuzdwAAAAJ&hl=en&authuser=1).
 ## Journal Articles (* Corresponding author, # Equally contribution):
+- [J14] C. Cai, W. Tey, J. Chen, W. Zhu, **X. Liu**, T. Liu, L. Zhao, and K. Zhou, Comparative study on 3D printing of polyamide 12 by selective laser sintering and multi jet fusion, Journal of Materials Processing Technology  (**JMPT**), accepted.
 - [J13] W. Dou, Q. Zhao, M. Malhi, **X. Liu**, Z. Zhang, L. Wang, S. Mass, K. Nanthakumar, R. Hamilton, J. Maynes, and Y. Sun, Label-Free Conduction Velocity Mapping and Gap Junction Assessment of Functional iPSC-Cardiomyocyte Monolayers, Biosensors and Bioelectronics  (**BB**), accepted.
 - [J12] **X. Liu**, H. Madhusudanan, W. Chen, D. Li, J. Ge, C. Ru, and Y. Sun, Fast Eye-in-Hand 3D Scanner-Robot Calibration for Low Stitching Errors, IEEE Transactions on Industrial Electronics  (**IEEE TIE**), accepted.
 - [J11] **X. Liu**, W. Chen, H. Madhusudanan, J. Ge, C. Ru, and Y. Sun, Optical Measurement of Highly Reflective Surfaces from a Single Exposure, IEEE Transactions on Industrial Informatics  (**IEEE TII**), accepted.
