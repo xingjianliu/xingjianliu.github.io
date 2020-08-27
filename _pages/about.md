@@ -15,8 +15,8 @@ My research focuses on 3D vision for robotics: 1) Develop 3D sensing/metrology t
 
 # Latest News
 * 2020-08-26 Paper entitled "Camera Orientation Optimization in Stereo Vision Systems for Low Measurement Error" was published on IEEE/ASME Transactions on Mechatronics  ([IEEE/ASME TMECH](https://doi.org/10.1109/TMECH.2020.3019305)).
-* 2020-08-19 Co-author paper entitled "Comparative study on 3D printing of polyamide 12 by selective laser sintering and multi jet fusion" was published on Journal of Materials Processing Technology ([JMPT](https://doi.org/10.1016/j.jmatprotec.2020.116882)).
-* 2020-08-03 Co-author paper entitled "Label-free conduction velocity mapping and gap junction assessment of functional iPSC-Cardiomyocyte monolayers" was published on Biosensors and Bioelectronics ([BB](https://doi.org/10.1016/j.bios.2020.112468)).
+* 2020-08-19 Co-authored paper entitled "Comparative study on 3D printing of polyamide 12 by selective laser sintering and multi jet fusion" was published on Journal of Materials Processing Technology ([JMPT](https://doi.org/10.1016/j.jmatprotec.2020.116882)).
+* 2020-08-03 Co-authored paper entitled "Label-free conduction velocity mapping and gap junction assessment of functional iPSC-Cardiomyocyte monolayers" was published on Biosensors and Bioelectronics ([BB](https://doi.org/10.1016/j.bios.2020.112468)).
 * 2020-07-21 Paper entitled "Fast Eye-in-Hand 3D Scanner-Robot Calibration for Low Stitching Errors" was published on IEEE Transactions on Industrial Electronics ([IEEE TIE](https://doi.org/10.1109/TIE.2020.3009568)).
 * 2020-05-01 Paper entitled "Optical Measurement of Highly Reflective Surfaces from a Single Exposure" was published on IEEE Transactions on Industrial Informatics ([IEEE TII](https://doi.org/10.1109/TII.2020.2991458)).
 * 2020-04-04 Paper entitled "Characterizing the Biomechanical Response of the Right Ventricle via Stereo Digital Image Correlation" was published on The Journal of Heart and Lung Transplantation ([JHLT](https://doi.org/10.1016/j.healun.2020.01.757)).
