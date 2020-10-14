@@ -14,6 +14,7 @@ I finished my PhD at [Huazhong University of Science & Technology](http://englis
 My research focuses on 3D vision for robotics: 1) Develop 3D sensing/metrology techniques with unprecedented accuracy and efficiency, 2) Develop algorithms that can enable robot to learn manipulation skills necessary to execute manufacturing and medicine tasks.
 
 # Latest News
+* 2020-10-14 Co-authored paper entitled "Graphene fatigue through van der Waals interactions" was published on Science Advances ([Sci. Adv](https://doi.org/10.1126/sciadv.abb1335)).
 * 2020-08-26 Paper entitled "Camera Orientation Optimization in Stereo Vision Systems for Low Measurement Error" was published on IEEE/ASME Transactions on Mechatronics  ([IEEE/ASME TMECH](https://doi.org/10.1109/TMECH.2020.3019305)).
 * 2020-08-19 Co-authored paper entitled "Comparative study on 3D printing of polyamide 12 by selective laser sintering and multi jet fusion" was published on Journal of Materials Processing Technology ([JMPT](https://doi.org/10.1016/j.jmatprotec.2020.116882)).
 * 2020-08-03 Co-authored paper entitled "Label-free conduction velocity mapping and gap junction assessment of functional iPSC-Cardiomyocyte monolayers" was published on Biosensors and Bioelectronics ([BB](https://doi.org/10.1016/j.bios.2020.112468)).
