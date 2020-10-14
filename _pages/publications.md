@@ -5,7 +5,7 @@ author_profile: true
 ---
 Please check my [Google Scholar Profile](https://scholar.google.com/citations?user=8AIuzdwAAAAJ&hl=en&authuser=1).
 ## Journal Articles (* Corresponding author, # Equally contribution):
-- [J16] T. Cui, K. Yip, A. Hassan, G. Wang, **X. Liu**, Y. Sun, T. Filleter, "Graphene fatigue through van der Waals interactions," Science Advances (**SA**), vol. 6, no. 42, eabb1335, 2020.
+- [J16] T. Cui, K. Yip, A. Hassan, G. Wang, **X. Liu**, Y. Sun, T. Filleter, "Graphene fatigue through van der Waals interactions," Science Advances (**SA**), vol. 6, no. 42, p. eabb1335, 2020.
 - [J15] **X. Liu**, W. Chen, H. Madhusudanan, L. Du, and Y. Sun, Camera Orientation Optimization in Stereo Vision Systems for Low Measurement Error, IEEE/ASME Transactions on Mechatronics  (**IEEE/ASME TMECH**), accepted.
 - [J14] C. Cai, W. Tey, J. Chen, W. Zhu, **X. Liu**, T. Liu, L. Zhao, and K. Zhou, Comparative study on 3D printing of polyamide 12 by selective laser sintering and multi jet fusion, Journal of Materials Processing Technology  (**JMPT**), accepted.
 - [J13] W. Dou, Q. Zhao, M. Malhi, **X. Liu**, Z. Zhang, L. Wang, S. Mass, K. Nanthakumar, R. Hamilton, J. Maynes, and Y. Sun, Label-Free Conduction Velocity Mapping and Gap Junction Assessment of Functional iPSC-Cardiomyocyte Monolayers, Biosensors and Bioelectronics  (**BB**), accepted.
