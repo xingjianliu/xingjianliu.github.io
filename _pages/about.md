@@ -27,8 +27,8 @@ My research focuses on 3D vision for robotics: 1) Develop 3D sensing/metrology t
 [More News](https://xingjianliu.github.io/news).
 
 # Links of Friends & Collaborators
-* Prof. YuhJin Chao --- Professor at Mechanical Engineering (ME) Department, University of South Carolina.
+* Prof. YuhJin Chao --- Professor at Mechanical Engineering (ME) Department, University of South Carolina, US.
 * Dr. Pedro Miraldo --- Invited Assistant Professor and Postdoctoral researcher at the Institute for Systems and Robotics, Instituto Superior Técnico, Lisboa.
-* Dr. Hengshuang Zhao --- Department of Computer Science and Engineering, The Chinese University of Hong Kong.
+* Dr. Hengshuang Zhao --- Research fellow at Department of Engineering Science, University of Oxford, UK.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=V26EEi-XzBMVpO00n55ZZgpx40ySNjsToCJZc5dtqyU&co=b3c0c9&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
