@@ -8,7 +8,7 @@ author_profile: true
 * 2023-01-10 I am serving as organizing Co-Chair for the IEEE International Conference on Real-time Computing and Robotics ([IEEE RCAR 2023](http://www.ieee-rcar.org/)).
 * 2022-10-24 I won Young Elite Scientists Sponsorship (YESS) from China Association for Science and Technology (CAST), cheers!
 * 2022-08-30 Paper entitled "Automated Exposures Selection for High Dynamic Range Structured-Light 3-D Scanning" was published on IEEE Transactions on Industrial Electronics ([IEEE TIE](https://doi.org/10.1109/TIE.2022.3201318)).
-* 2022-07-29 Co-authored paper entitled "Ag/CNT-PDMS crack sensing for measuring contractility of cardiomyocytes" won Best Application Paper Award in IEEE International Conference on Manipulation, Automation, and Robotics at Small Scales (IEEE MARSS), 2022.
+* 2022-07-29 Co-authored paper entitled "Ag/CNT-PDMS crack sensing for measuring contractility of cardiomyocytes" won Best Application Paper Award in IEEE International Conference on Manipulation, Automation, and Robotics at Small Scales ([IEEE MARSS](https://marss-conference.org/)), 2022.
 * 2022-07-07 Paper entitled "3-D Structured Light Scanning With Phase Domain-Modulated Fringe Patterns" was published on IEEE Transactions on Industrial Electronics ([IEEE TIE](https://doi.org/10.1109/TIE.2022.3187597)).
 * 2021-01-11 Co-authored paper entitled "Simultaneous Calibration of Multicoordinates for a Dual-Robot System by Solving the AXB = YCZ Problem" was published on IEEE Transactions on Robotics ([IEEE TRO](https://doi.org/10.1109/TRO.2020.3043688)).
 * 2020-10-14 Co-authored paper entitled "Graphene fatigue through van der Waals interactions" was published on Science Advances ([Sci. Adv](https://doi.org/10.1126/sciadv.abb1335)).
