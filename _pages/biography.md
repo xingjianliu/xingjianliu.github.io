@@ -4,7 +4,7 @@ permalink: /biography/
 author_profile: true
 ---
 
-I was born in Jinzhou in Liaoning province, which is a small city besides the sea. After 18 years living in my hometown, I  came to Huazhong University of Science & Technology (HUST) for undergraduate courses study. After four years' study in School of Electronics and Information Engineering, I got the BEng degree in 2013. And then I was recommended for admission to School of Mechanical Science and Engineering, HUST for PhD study, My supervisors are Prof. Yusheng Shi and Zhongwei Li. During my PhD study, I also worked with Prof. Yuhjin Chao at the University of South Carolina (UofSC) as a visiting student. After five years study, I obtained the PhD degree and the name of my dissertation is "Visual Computing Based Micro-nano scale 3D SEM Surface Measurement". Now, I am a Postdoctoral Fellow at Advanced Micro and Nanosystems Laboratory (AMNL) in University of Toronto (UofT) supervised by Prof. Yu Sun. 
+I received the B.E. degree in electronic information engineering and the Ph.D. degree in materials processing engineering from the Huazhong University of Science and Technology, Wuhan, China, in 2013 and 2018, respectively.I was a Postdoctoral Fellow with the Department of Mechanical and Industrial Engineering and the Robotics Institute, University of Toronto, Toronto, ON, Canada. I am currently an Associate Professor with School of Mechanical Engineering, Dalian University of Technology, Dalian, China. My research interests include computer vision, 3-D sensing and metrology, and robotics. 
 
 # Education
 * B.E. in Electronic Information Engineering, Huazhong University of Science & Technology (HUST), 2013
@@ -12,6 +12,7 @@ I was born in Jinzhou in Liaoning province, which is a small city besides the se
 * Ph.D in Materials Processing Engineering, Huazhong University of Science & Technology (HUST), 2018
 
 # Work experience
-* Postdoctoral Fellow in Dept. of Mechanical and Industrial Engineering & Robotics Institute, University of Toronto (UofT), 2018 - now
+* Postdoctoral Fellow in Dept. of Mechanical and Industrial Engineering & Robotics Institute, University of Toronto (UofT), 2018 - 2021
+* Associate Professor in School of Mechanical Engineering, Dalian University of Technology (DUT), 2018 -now
 
 ![](https://xingjianliu.github.io/images/school.png)
