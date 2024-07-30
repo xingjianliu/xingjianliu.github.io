@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Professor of [School of Mechanical Engineering](http://me.dlut.edu.cn/index.htm) at [Dalian University of Technology, DUT](http://en.dlut.edu.cn/). I study  computer vision, 3D sensing and metrology, and robotics.
+I am a Professor of Institute of Robotics and Intelligent Systems (IRIS) at [Dalian University of Technology, DUT](http://en.dlut.edu.cn/). I study  computer vision, 3D sensing and metrology, and robotics.
 
 Before joining DUT, I was a postdoctoral fellow at [Robotics Institute](https://robotics.utoronto.ca/), University of Toronto, working with [Prof. Yu Sun](https://sun.mie.utoronto.ca/bio/). I finished my PhD at [Huazhong University of Science & Technology](http://english.hust.edu.cn/), advised by [Prof. Yusheng Shi](http://faculty.hust.edu.cn/shiyusheng/zh_CN/index.htm) & Zhongwei Li, and my undergraduate degree from same university, working with Prof. Yu Liu in Dian Group and SeedClass. During my PhD study, I also worked with [Prof. Yuhjin Chao](https://www.sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/chao_yuh.php) at the [University of South Carolina (UofSC)](https://www.sc.edu/) as a visiting graduate student.
 
 My research focuses on 3D vision for robotics: 1) Develop 3D sensing/metrology techniques with unprecedented accuracy and efficiency, 2) Develop algorithms that can enable robot to learn manipulation skills necessary to execute manufacturing and medicine tasks.
 
 # Latest News
+* 2024-07-30 I will serve as a Technical Editor for IEEE/ASME Transactions on Mechatronics ([IEEE/ASME TMECH](https://www.ieee-asme-mechatronics.info/)).
 * 2023-04-11 I was invited as an Associate Editor for IEEE Robotics and Automation Letters ([IEEE RA-L](https://www.ieee-ras.org/publications/ra-l)).
 * 2023-02-10 I was invited as an Associate Editor (RP: Automation in Meso, Micro and Nano Scale, Industrial Robotics and Mechatronics) for IEEE Conference on Automation Science and Engineering ([IEEE CASE 2023](https://case2023.org)).
 * 2023-01-10 I am serving as organizing Co-Chair for the IEEE International Conference on Real-time Computing and Robotics ([IEEE RCAR 2023](http://www.ieee-rcar.org/)).
